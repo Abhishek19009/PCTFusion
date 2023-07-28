@@ -1,0 +1,4 @@
+Number of parameters in base KPConv:- 24377933
+
+Number of parameters in with GlobalAttentionHead:- 37761293
+
